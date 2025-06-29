@@ -117,7 +117,9 @@ The entire interactive dashboard can be downloaded [here](https://github.com/Zak
 | Furniture       | \$741,999.80 | \$18,451.27  | 2.5%              |
 
 * **Technology** delivers the highest revenue and margins.
-* **Furniture**, despite high sales, is underperforming profit-wise in dicating potential over-discounting or costly logistics. ![Product OrderbyState Region](https://github.com/user-attachments/assets/aa78cd1c-186c-42af-86a9-45648cd4c57f)
+* **Furniture**, despite high sales, is underperforming profit-wise in dicating potential over-discounting or costly logistics. 
+  
+  ![Product OrderbyState Region](https://github.com/user-attachments/assets/646be559-c3d1-4e2a-ba7e-2cf319a13583)
 
 ### **Top Sub-Categories (by Revenue)**
 
