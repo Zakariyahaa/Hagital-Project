@@ -36,30 +36,9 @@ The original source data includes:
 
 A summary of the structure is shown below:
 
-| Column Name        | Data Type | Description                                              |
-| ------------------ | --------- | -------------------------------------------------------- |
-| Order ID           | Text      | Unique order identifier                                  |
-| Order Date         | Date      | Date when order was placed                               |
-| Ship Date          | Date      | Date when the order was shipped                          |
-| Ship Mode          | Text      | Mode of shipment (e.g., Standard Class, Same Day)        |
-| Customer ID        | Text      | Unique customer identifier                               |
-| Customer Name      | Text      | Full name of the customer                                |
-| Segment            | Text      | Customer segment: Consumer, Corporate, or Home Office    |
-| Sales Rep          | Text      | Name of the salesperson handling the order               |
-| Sales Team         | Text      | Sales team the rep belongs to                            |
-| Sales Team Manager | Text      | Team manager overseeing the sales rep                    |
-| City               | Text      | Customer's city                                          |
-| State              | Text      | Customer's state                                         |
-| Postal Code        | Text      | ZIP or postal code                                       |
-| Region             | Text      | Regional grouping (West, East, Central, South)           |
-| Product ID         | Text      | Unique product identifier                                |
-| Category           | Text      | Product category: Technology, Furniture, Office Supplies |
-| Sub-Category       | Text      | Specific product line within the category                |
-| Product Name       | Text      | Description of the product                               |
-| Sales              | Decimal   | Total sales value                                        |
-| Quantity           | Integer   | Number of units sold                                     |
-| Discount           | Decimal   | Discount applied (as a decimal value)                    |
-| Profit             | Decimal   | Net profit from the transaction                          |
+<img width="476" height="444" alt="image" src="https://github.com/user-attachments/assets/9eb83a43-7ed6-4520-af82-f5f5de142ba6" />
+
+---
 
 **Data Cleaning & Preparation Process**:
 
